@@ -69,8 +69,11 @@ This tool is intended for **educational and ethical use only**. The author is no
 <img src="https://github.com/4lph4shell/AlphaShell-Terminal-bash/blob/master/319.png" >
 </p>
 
+
 ![Alt](https://repobeats.axiom.co/api/embed/45b7b61c996521e94b72223a0fecf364180490e9.svg "Repobeats analytics image")
 
+
+=======
 
 ## 🌐 Socials:
 [![website](https://img.shields.io/badge/🐺-website-4EA94B.svg?&logo=web&logoColor=white)](https://www.4lph4.ir) <br/>
