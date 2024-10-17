@@ -52,7 +52,9 @@ While in theory this could be a potentially helpful feature, these searches retu
 </p>
 The Archive Manager feature allows the attacker to quickly unpack archive files (e.g .zip, .tar.gz, .gz, etc) into the server’s memory by generating a Phar PHP resource. The attacker can then manage the contents as if they had unpacked the archive in a file manager, but it is instead loaded into memory and doesn’t unpack to a directory.
 
-# Conclusion
+## ⚠️ WARNING: LEGAL DISCLAIMER
+
+This tool is intended for **educational and ethical use only**. The author is not liable for any illegal use or misuse of this tool. Users are solely responsible for their actions and must ensure they have explicit permission to scan the target systems.
  <p align="center">
 <img src="https://github.com/4lph4shell/AlphaShell-Terminal-bash/blob/master/312.png" >
 </p>
@@ -62,9 +64,7 @@ The Archive Manager feature allows the attacker to quickly unpack archive files 
 
 
  
-## ⚠️ WARNING: LEGAL DISCLAIMER
-
-This tool is intended for **educational and ethical use only**. The author is not liable for any illegal use or misuse of this tool. Users are solely responsible for their actions and must ensure they have explicit permission to scan the target systems.
+# US
  <p align="center">
 <img src="https://github.com/4lph4shell/AlphaShell-Terminal-bash/blob/master/319.png" >
 </p>
