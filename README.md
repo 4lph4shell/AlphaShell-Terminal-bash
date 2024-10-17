@@ -1,5 +1,5 @@
 # AlphaShell-Terminal-bash
-## Orginal files
+# Orginal files
 
 AlphaShell-Host/Server-Terminal-bash
 
