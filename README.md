@@ -70,8 +70,7 @@ This tool is intended for **educational and ethical use only**. The author is no
 </p>
 
 
-![Alt](https://repobeats.axiom.co/api/embed/45b7b61c996521e94b72223a0fecf364180490e9.svg "Repobeats analytics image")
-
+![Alt](https://repobeats.axiom.co/api/embed/c6c5d8c6f802c26c7dcb4d5f7bbda6a4fcd28bdc.svg "Repobeats analytics image")
 
 
 ## 🌐 Socials:
