@@ -30,3 +30,9 @@ When comparing v7.47’s PHP code, we can see the following new features, which 
 
 The first three are just variations of existing features (e.g coldumper) and relatively common among multi-featured PHP web shells.
 Let’s focus on the behavior of the last three features: ** fakepage, config_grabber, and archive_manager. ** 
+
+# Fake Page 
+In my opinion, ** fakepage ** is of the most interesting new features added to v7.4.7. It allows the attacker to create an on-the-fly phishing page for the two most common hosting control panels: cPanel and DirectAdmin.
+ <p align="center">
+<img src="https://blog.sucuri.net/wp-content/uploads/2020/10/alfa_team_web_shell_phishing_page.gif" >
+</p>
