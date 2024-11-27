@@ -45,15 +45,9 @@ representative at an online or offline event.
 
 ## Attribution
 
-This Code of Conduct is an adaption of the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
 Community Impact Guidelines draw inspiration from [Mozilla's code of conduct
 enforcement ladder](https://github.com/4lph4shell).
 
 [homepage]: https://www.4lph4.ir
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+
